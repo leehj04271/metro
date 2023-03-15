@@ -43,7 +43,7 @@
   font-weight: 700;
   line-height: 1.5;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 768px) {
   .trainInfo .station-line {
     justify-content: space-between;
     gap: 0;
